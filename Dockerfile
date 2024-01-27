@@ -1,3 +1,4 @@
+# Hier kommt der Hotfix rein
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
